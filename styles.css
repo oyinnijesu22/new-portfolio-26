@@ -269,8 +269,8 @@ section p {
 
 /* ===== CONTACT ===== */
 .contact-me a {
-  color:white;
-  text-decoration:none;
+  color:#833ab4;
+  text-decoration:underline;
 }
 
 /* ===== FOOTER ===== */
